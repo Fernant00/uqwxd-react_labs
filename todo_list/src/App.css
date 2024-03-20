@@ -5,7 +5,7 @@ h1 {
   }
 
   body {
-    background: grey
+    background: rgb(169, 251, 255)
   }
   #todo-list {
     width: 500px;
@@ -15,6 +15,7 @@ h1 {
     border: 1px solid rgb(15, 26, 61);
     padding: 10px 20px;
     margin-bottom: 10px;
+    background: green;
   }
   form {
     display: flex;
